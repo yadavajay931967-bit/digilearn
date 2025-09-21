@@ -13,7 +13,7 @@ const Frame1 = () => {
       <div className="frame48095526-frame48095526">
         <div className="frame48095526-frame48095520">
           <div className="frame48095526-frame48095519">
-            <img src={Vector2} alt="Decorative Line" className="frame48095526-vector2" />
+            <img src={Vector2}  className="frame48095526-vector2" />
             <span className="frame48095526-text10">Why choose us</span>
           </div>
           <span className="frame48095526-text11">Best Learning Experience</span>
