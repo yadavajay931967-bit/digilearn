@@ -30,7 +30,7 @@ const Footer = () => {
       <div className="footer-section">
         <h3>Resources</h3>
         <ul>
-          <li>Support</li>
+          {/* <li>Support</li> */}
           <li>Privacy policy</li>
           <li>Terms & Conditions</li>
         </ul>
