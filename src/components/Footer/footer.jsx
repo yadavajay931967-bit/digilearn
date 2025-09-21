@@ -9,11 +9,11 @@ const Footer = () => {
         <h2 className="logo">
           <span className="dot-logo"><img src={logo}/></span> Digilearn
         </h2>
-        <p className="para1">
+        {/* <p className="para1">
   Unlock Digital Mastery Effortlessly!<br />
   Explore and enhance your skills<br />
   with our user-friendly platform.
-</p>
+</p> */}
 
       </div>
 

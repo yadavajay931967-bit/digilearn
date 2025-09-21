@@ -15,7 +15,7 @@ const Frame2 = () => {
     <div className="frame48095530-container">
       <div className="frame48095530-frame48095530">
 
-        {/* Top Section */}
+        Top Section
         <div className="frame48095530-frame48095533">
           <img
             src={Image}
@@ -56,7 +56,7 @@ const Frame2 = () => {
           </div>
         </div>
 
-        {/* Statistics Section */}
+        Statistics Section
         <div className="frame48095530-frame48095536">
 
           <div className="frame48095530-frame48095534">
