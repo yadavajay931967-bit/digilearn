@@ -26,11 +26,7 @@ const Frame2 = () => {
           <div className="frame48095530-frame48095528">
             <div className="frame48095530-frame48095520">
               <div className="frame48095530-frame48095519">
-                {/* <img
-                  src={Vector3}
-                  alt="Decorative Line"
-                  className="frame48095530-vector2"
-                /> */}
+                
                 <span className="frame48095530-text10">About us</span>
               </div>
               <span className="frame48095530-text11">
