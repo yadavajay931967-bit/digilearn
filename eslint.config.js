@@ -9,7 +9,7 @@ export default defineConfig([
   {
     files: ['**/*.{js,jsx}'],
     extends: [
-      js.configs.recommended,
+      js.configs.recommended,git checkout -b your-branch-name
       reactHooks.configs['recommended-latest'],
       reactRefresh.configs.vite,
     ],
